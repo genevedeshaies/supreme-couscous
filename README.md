@@ -1,1 +1,2 @@
-# supreme-couscous
+#supreme-couscous
+A testing repo for my first day on github
